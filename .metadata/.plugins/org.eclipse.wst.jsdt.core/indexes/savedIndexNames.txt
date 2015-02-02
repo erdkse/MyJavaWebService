@@ -1,0 +1,8 @@
+INDEX VERSION 1.3+/home/erdico/workspace/newbeginnings/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+1070881587.index
+3722066084.index
+1516415558.index
+1005710642.index
+4264093705.index
+3636817504.index
+4050234200.index
